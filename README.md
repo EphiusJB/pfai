@@ -82,4 +82,3 @@ lib/
 
 - Experimental work lands here first. Keep commits small and describe what is unfinished or risky.
 - Run `pnpm build` before pushing, and test at 320px, 390px, 768px and 1440px.
-- Manual QA notes for the mobile work are in [`MOBILE-QA.md`](./MOBILE-QA.md).
